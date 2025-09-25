@@ -1,0 +1,15 @@
+# Underreported News Site
+
+Mobile‑friendly Next.js + Tailwind site that surfaces overlooked stories. Includes mock API and ready‑to‑deploy config.
+
+## Features
+- Responsive, mobile‑first UI (Tailwind)
+- Dark mode via `prefers-color-scheme`
+- API route with mock stories (`/api/stories`)
+- Ready for Vercel deploy (`vercel.json`)
+
+## Quick start
+
+```bash
+npm install
+npm run dev
